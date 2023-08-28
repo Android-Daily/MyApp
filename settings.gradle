@@ -14,3 +14,9 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyApp"
 include ':app'
+
+include(':mysubmodule1')
+include(':mysubmodule2')
+
+project(':mysubmodule1').projectDir = new File('mysubmodule1/mysubmodule1')
+project(':mysubmodule2').projectDir = new File('mysubmodule2/mysubmodule2')
