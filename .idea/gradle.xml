@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mysubmodule1/mysubmodule1" />
             <option value="$PROJECT_DIR$/mysubmodule2/mysubmodule2" />
+            <option value="$PROJECT_DIR$/mysubmodule3" />
           </set>
         </option>
       </GradleProjectSettings>

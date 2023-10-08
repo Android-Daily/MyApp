@@ -17,6 +17,8 @@ include ':app'
 
 include(':mysubmodule1')
 include(':mysubmodule2')
+include(':mysubmodule3')
 
 project(':mysubmodule1').projectDir = new File('mysubmodule1/mysubmodule1')
 project(':mysubmodule2').projectDir = new File('mysubmodule2/mysubmodule2')
+project(':mysubmodule3').projectDir = new File('mysubmodule3')

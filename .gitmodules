@@ -4,3 +4,6 @@
 [submodule "mysubmodule2"]
 	path = mysubmodule2
 	url = git@github.com:Android-Daily/MyAppSubmodule2.git
+[submodule "mysubmodule3"]
+	path = mysubmodule3
+	url = git@github.com:fenggit/MyAppSubmodule3.git

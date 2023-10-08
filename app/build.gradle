@@ -41,5 +41,6 @@ dependencies {
 
     implementation project(path: ':mysubmodule1')
     implementation project(path: ':mysubmodule2')
+    implementation project(path: ':mysubmodule3')
 
 }
